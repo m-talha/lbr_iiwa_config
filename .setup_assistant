@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: kuka_lbr_iiwa_support
+    relative_path: urdf/lbr_iiwa_14_r820.urdf
+  SRDF:
+    relative_path: config/kuka_lbr_iiwa_14_r820.srdf
+  CONFIG:
+    generated_timestamp: 1456523869
